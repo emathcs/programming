@@ -48,7 +48,8 @@ build-*/
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
-Makefile
+# My modification: adding comment to the next line.
+# Makefile
 install_manifest.txt
 compile_commands.json
 
