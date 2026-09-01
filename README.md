@@ -1,2 +1,9 @@
-# competitive-programming
-Competitive programming
+# Programming
+
+Programming.
+
+# Links
+
+- https://codeforces.com/
+- https://usaco.org/
+- https://omegaup.com/
