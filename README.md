@@ -12,3 +12,22 @@ Programming.
 
 1. `#include <bits/stdc++.h>` does't work on macOS.
 2. `ios_base::sync_with_stdio(false), cin.tie(0), cout.tie(0);` maximize the speed of input and output (I/O) operations, but you should use `\n` instead `endl`.
+
+# Makefile
+
+Run the following commands for:
+
+- Generating the object file:
+```
+make
+```
+
+- Runnig a test case:
+```
+make test
+```
+
+- Generating an output:
+```
+make output
+```
