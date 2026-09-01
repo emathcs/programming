@@ -4,8 +4,8 @@ CCFLAGS = -Wall -lm -O2 -std=c++11
 base: base.cpp
 	${CC} ${CCFLAGS} $^ -o $@
 
-test:
+test: base
 	./base < data.in
 
-output:
-	.base < data.in > data.out
+output: base
+	./base < data.in > data.out
